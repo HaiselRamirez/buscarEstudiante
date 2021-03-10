@@ -1,0 +1,2 @@
+# Plantilla para los reportes 
+  Es la base o plantilla para usar en los reportes de la Unidad de Desarrollo en la Direción General de Tecnologia de la Información de la Universidad autónoma de Santo Domingo (DGTI-UASD)
